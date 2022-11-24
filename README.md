@@ -5,11 +5,13 @@
 </p>
 
 <a href=#><img src="contributions.svg"></a>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+<center>
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+</center>
 ## ⚡ GitHub Štatistiky
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gymoblig&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gymoblig&layout=compact&count_private=true&theme=gruvbox" />
