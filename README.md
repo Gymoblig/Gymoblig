@@ -11,12 +11,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![Minecraft](https://img.shields.io/badge/Minecraft-black?style=flat-square&logo=minecraft)
 
 
 ## ⚡ GitHub Štatistiky
-<p align="center">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gymoblig&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gymoblig&layout=compact&count_private=true&theme=gruvbox" />
 <a href="https://github.com/Gymoblig/Python" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gymoblig&repo=python&theme=gruvbox""></a>  
-</p>
+
 <a href=#><img src="footer.svg"></a>
