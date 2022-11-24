@@ -6,8 +6,8 @@
 
 <a href=#><img src="contributions.svg"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ## ⚡ GitHub Štatistiky
