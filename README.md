@@ -14,9 +14,9 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-black?style=flat-square&logo=minecraft)
 
 
-## ⚡ GitHub Štatistiky
+<!--## ⚡ GitHub Štatistiky
 
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=gymoblig&show_icons=true&count_private=true&theme=gruvbox" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gymoblig&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gymoblig&layout=compact&count_private=true&theme=gruvbox" />
 <a href="https://github.com/Gymoblig/gymoblig.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gymoblig&repo=gymoblig.github.io&theme=gruvbox"></a>  
 <a href="https://github.com/Gymoblig/Python" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gymoblig&repo=python&theme=gruvbox"></a> --> 
