@@ -11,7 +11,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![C language](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 ![Matlab](https://img.shields.io/badge/matlab-black?style=flat-square&logo=matlab)
 
 
