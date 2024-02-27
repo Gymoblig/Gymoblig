@@ -11,7 +11,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![Minecraft](https://img.shields.io/badge/Minecraft-black?style=flat-square&logo=minecraft)
+![C](https://img.shields.io/badge/Minecraft-black?style=flat-square&logo=c)
+![Matlab](https://img.shields.io/badge/Minecraft-black?style=flat-square&logo=matlab)
 
 
 <!--## ⚡ GitHub Štatistiky
