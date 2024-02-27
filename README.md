@@ -10,9 +10,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![C language](https://img.shields.io/badge/C_language-black?style=flat-square&logo=c)
-![Matlab](https://img.shields.io/badge/matlab-black?style=flat-square&logo=Matlab)
+![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
+![C language](https://img.shields.io/badge/-C_language-black?style=flat-square&logo=c)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Matlab)
 
 
 <!--## ⚡ GitHub Štatistiky
