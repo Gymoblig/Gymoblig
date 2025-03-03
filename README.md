@@ -19,23 +19,16 @@
 ---
 
 ### 🛠️ Technologies & Tools  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
-![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion)
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-black?style=flat-square&logo=codeblocks)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,clion,codeblocks,matlab" />
+</p>
 
 ---
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,matlab" />
+</p>
 
 ---
 
