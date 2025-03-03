@@ -20,7 +20,7 @@
 
 ### 🛠️ Technologies & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,clion,codeblocks,matlab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,clion,matlab" />
 </p>
 
 ---
