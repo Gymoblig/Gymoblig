@@ -1,12 +1,10 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   <br>
   <img src="https://profile-counter.glitch.me/gymoblig/count.svg" />
 </p>
-
-<a href=#><img src="contributions.svg"></a>
-
 ---
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1sZHR3OHBqbnpwbXQ0Ym01b29sYTJwd2w5dGplaWdhZXd1ZzhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2O0cHain0Me6k7ZNUw/giphy.gif" width="25px"> About Me
