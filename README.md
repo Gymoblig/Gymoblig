@@ -8,7 +8,7 @@
 ---
 
 ###
-width="25px"> About Me
+About Me
 - 🎓 I am a student at the **Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava (FEI STU)**, studying **Robotics and Cybernetics**.
 - 💡 Passionate about **programming, embedded systems, automation**, and leveraging the power of technology to solve real-world problems.
 - 🔬 Deeply interested in **robotics**, **simulations**, and **control systems**, with a focus on practical application in industrial and research environments.
