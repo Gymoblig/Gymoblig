@@ -7,7 +7,8 @@
 </p>
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1sZHR3OHBqbnpwbXQ0Ym01b29sYTJwd2w5dGplaWdhZXd1ZzhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2O0cHain0Me6k7ZNUw/giphy.gif" width="25px"> About Me
+###
+width="25px"> About Me
 - 🎓 I am a student at the **Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava (FEI STU)**, studying **Robotics and Cybernetics**.
 - 💡 Passionate about **programming, embedded systems, automation**, and leveraging the power of technology to solve real-world problems.
 - 🔬 Deeply interested in **robotics**, **simulations**, and **control systems**, with a focus on practical application in industrial and research environments.
